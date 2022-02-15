@@ -140,6 +140,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",'https://todo-hsc.herokuapp.com/','http://todo-hsc.herokuapp.com/'
+    "http://localhost:3000",'https://todo-hsc.herokuapp.com','http://todo-hsc.herokuapp.com'
 ]
 
